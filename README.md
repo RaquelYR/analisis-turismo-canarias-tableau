@@ -37,7 +37,7 @@ Fuente oficial:
 
 https://datos.gob.es/es/catalogo/a05003423-pernoctaciones-viajeros-alojados-y-entrados-y-estancia-media-segun-principales-nacionalidades-islas-y-microdestinos-de-canarias-por-periodos
 
-El dataset preparado para el análisis se incluye en la carpeta `/data`.
+El dataset preparado para el análisis se incluye en la carpeta [`data/`](data/)
 
 ## 4. Herramientas
 
